@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-07 21:16:10" Creator="Researcher" Comments="" ID="90f45da7844799897c5824f8d427c5b9">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-15 20:33:21" Creator="Researcher" Comments="" ID="036e5d2954283b8e4300b605c6482496">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Comdel_CX</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -29,6 +29,8 @@
     <Description>
       <One_Line_Description_Summary>LabVIEW instrument driver for Comdel CX Series RF generators</One_Line_Description_Summary>
       <Description>LabVIEW instrument driver for Comdel CX Series RF generators
+
+Tested on Comdel CX-1250S.
 
 Requirements
 LabVIEW 2015 and higher.
@@ -290,7 +292,7 @@ Features
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5C0579A9B20A7A80AD935B89FFB2453A</GUID>
+      <GUID>907E94A2A11640830CB3C508FCE7D124</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -367,7 +369,7 @@ Features
         <Path>Public\Configure\Configure RF Power Ramp-Down.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9F4224386BE28AC301E5495E16D926AD</GUID>
+      <GUID>A648876158CFC401964FB8518A9B81C0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -430,7 +432,7 @@ Features
         <Path>Public\Action-Status\Read Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5D4BA81AB656BB3E08BCC5F8FBF56EF7</GUID>
+      <GUID>4519452706F7591B5372CFA1FCF1FD78</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -479,7 +481,7 @@ Features
         <Path>Public\Data\Read Reflected RF Power.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C3591746950DCE9B714935FE73CB1425</GUID>
+      <GUID>80478D326F35F9B92E98045FD85C2F97</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
