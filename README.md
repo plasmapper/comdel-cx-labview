@@ -1,4 +1,4 @@
-# Comdel CX Series Driver for LabVIEW
+# Comdel CX Series Library for LabVIEW
 LabVIEW instrument driver for Comdel CX Series RF generators.
 
 Tested on Comdel CX-1250S.
