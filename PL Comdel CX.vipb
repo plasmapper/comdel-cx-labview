@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-15 20:33:21" Creator="Researcher" Comments="" ID="036e5d2954283b8e4300b605c6482496">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-20 17:54:34" Creator="Researcher" Comments="" ID="98e9872e9e7983427c4689ceae3605ce">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Comdel_CX</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\build\comdel-cx-labview</Library_Output_Folder>
+    <Library_Output_Folder>..\build</Library_Output_Folder>
     <Company_Name>plasmapper</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
@@ -292,7 +292,7 @@ Features
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>907E94A2A11640830CB3C508FCE7D124</GUID>
+      <GUID>0048ED6F68077171C910F4381CCC5DE2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -369,7 +369,7 @@ Features
         <Path>Public\Configure\Configure RF Power Ramp-Down.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A648876158CFC401964FB8518A9B81C0</GUID>
+      <GUID>3E161A6FEF922DBD923B48F8BFD90BEA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -432,7 +432,7 @@ Features
         <Path>Public\Action-Status\Read Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4519452706F7591B5372CFA1FCF1FD78</GUID>
+      <GUID>3EBF72C75962CA6AD2DC0259A61F6625</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -481,7 +481,7 @@ Features
         <Path>Public\Data\Read Reflected RF Power.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>80478D326F35F9B92E98045FD85C2F97</GUID>
+      <GUID>4851D8E6C778820CFA4741FDD103E4B2</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
