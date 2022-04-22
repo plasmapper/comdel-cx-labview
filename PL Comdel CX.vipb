@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-20 17:54:34" Creator="Researcher" Comments="" ID="98e9872e9e7983427c4689ceae3605ce">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-22 11:56:06" Creator="Researcher" Comments="" ID="048fde5165f3206522b0fe6345a62db5">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Comdel_CX</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -28,7 +28,7 @@
     <VI_Package_Configuration_File>PL Comdel CX.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>LabVIEW instrument driver for Comdel CX Series RF generators</One_Line_Description_Summary>
-      <Description>LabVIEW instrument driver for Comdel CX Series RF generators
+      <Description>LabVIEW instrument driver for Comdel CX series RF generators
 
 Tested on Comdel CX-1250S.
 
@@ -292,7 +292,7 @@ Features
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0048ED6F68077171C910F4381CCC5DE2</GUID>
+      <GUID>438831D7872AB051FB6FA1957600F5B5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -369,7 +369,7 @@ Features
         <Path>Public\Configure\Configure RF Power Ramp-Down.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3E161A6FEF922DBD923B48F8BFD90BEA</GUID>
+      <GUID>EBA98B9CFBDBC15A5396673FA900291E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -432,7 +432,7 @@ Features
         <Path>Public\Action-Status\Read Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3EBF72C75962CA6AD2DC0259A61F6625</GUID>
+      <GUID>7B57691A997BF44ED716A770E9235220</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -481,7 +481,7 @@ Features
         <Path>Public\Data\Read Reflected RF Power.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4851D8E6C778820CFA4741FDD103E4B2</GUID>
+      <GUID>207B9F3DD40BD6305D4B5C492AC9A9A7</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
