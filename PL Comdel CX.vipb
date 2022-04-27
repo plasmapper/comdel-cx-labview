@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 19:36:35" Creator="Researcher" Comments="" ID="9aed753c1d3ef3316a9984b5ed1b9d26">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 19:55:06" Creator="Researcher" Comments="" ID="fb0e385e67e4e45ffaaffbc462fba847">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Comdel_CX</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -292,7 +292,7 @@ Features
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E06B8670D4006D37EA67A0BD098EAF46</GUID>
+      <GUID>544EE4DBEABAC28CCBD6A65E1830FF65</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -369,7 +369,7 @@ Features
         <Path>Public\Configure\Configure Serial Watchdog.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F2EB5EB1E69ECC6DB3EA59E2FB39A0DC</GUID>
+      <GUID>8E7BC39A607DB650D682E3536246A3AF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -432,7 +432,7 @@ Features
         <Path>Public\Action-Status\Read Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5CAEF9E4857557C4F6D00BDD52384D17</GUID>
+      <GUID>FAA77A3E14BAA708925CE412DC994646</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -481,7 +481,7 @@ Features
         <Path>Public\Data\Read Reflected RF Power.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E7387906642684D28908BABCA9266A1E</GUID>
+      <GUID>8C165210BD143DCAB0916C58DC73F9BE</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
