@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-28 17:50:52" Creator="Researcher" Comments="" ID="107e94c921a4cdda01315983d5377731">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-05 14:39:12" Creator="Researcher" Comments="" ID="8a19bf08eae09be423a805a1ca1333cd">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Comdel_CX</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -42,7 +42,7 @@ Features
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/comdel-cx-labview</URL>
-      <Release_Notes/>
+      <Release_Notes>Initial release.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -289,7 +289,7 @@ Features
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A55A84FF6CB9753884D749675CDA1F62</GUID>
+      <GUID>82627FFAA8C2FB8F4149CEF6FB7ABE99</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -366,7 +366,7 @@ Features
         <Path>Public\Configure\Configure Serial Watchdog.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>15E1BB626F09221ABCF3579A15A7FCDD</GUID>
+      <GUID>FE3CAF3F9FC16CB72A8CAE58EAFB5452</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -429,7 +429,7 @@ Features
         <Path>Public\Action-Status\Read Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D3FCDF130109601E651A396A3D07B139</GUID>
+      <GUID>C180C326B74314AF7898B6734F4342B4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -478,7 +478,7 @@ Features
         <Path>Public\Data\Read Reflected RF Power.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A23347F7AB65AFF8B423FFC45576098B</GUID>
+      <GUID>12423E03224B09A06D3CD0D395F3119A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
