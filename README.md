@@ -6,6 +6,9 @@ Tested on Comdel CX-1250S.
 ## Requirements
 LabVIEW 2015 and higher.
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_comdel_cx/)
+
 ## Features
 1. Enable/disable RF power.
 2. Read device status.
